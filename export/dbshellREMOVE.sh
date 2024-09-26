@@ -1,0 +1,1 @@
+psql -U postgres DROP DATABASE periodic_table;
